@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Top Meteo
-// @namespace    https://europe.topmeteo.eu/
+// @namespace    https://github.com/DaanA32/TopMeteoUserscript
 // @version      0.1
 // @description  UserScript of JS written by Nathagamelle http://www.parapentebelge.be/parapentebelge/forum/list.php?id=Script%20TopMeteo
 // @author       Daan
